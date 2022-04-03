@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
+  background-color: #1e1e2f;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.Mui-disabled {
+  color: white !important;
+  background-color: #524e4e1f;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.left {
+  text-align: left;
+}
+
+.row {
+  --bs-gutter-x: 0;
+}
+
+.MuiOutlinedInput-input {
+  color: white !important;
+}
+
+.MuiTableCell-root {
+  color: white !important;
+}
