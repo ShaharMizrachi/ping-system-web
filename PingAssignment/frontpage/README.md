@@ -1,11 +1,16 @@
 A Web ping system build:
 
 Frontend - React
+
 Backend - Node JS (Express.js) (more inforamation about Backend int readMe Backend)
+
 Database - MySQL (for top 5)
 
-This project was build in the fornt  with react 
+
+This project was build in the fornt  with react.
+
 For design used with libraray MUI: https://mui.com/
+
 For grid lines of the page worked with library from bootstrap :https://getbootstrap.com/docs/5.1/layout/grid/
 
 
